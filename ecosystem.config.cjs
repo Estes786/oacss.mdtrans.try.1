@@ -4,7 +4,7 @@ module.exports = {
       name: 'oasis-v4-frontend',
       script: 'npm',
       args: 'start',
-      cwd: '/home/user/webapp/oasis-v4-ecosystem/front-oasis',
+      cwd: '/home/user/webapp',
       env: {
         NODE_ENV: 'production',
         PORT: 3000
