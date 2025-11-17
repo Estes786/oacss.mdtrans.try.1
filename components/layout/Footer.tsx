@@ -14,11 +14,11 @@ export default function Footer() {
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
             <h3 className="text-2xl font-bold text-white mb-4">
-              OASIS V4
+              OASIS Analytics
             </h3>
             <p className="text-gray-400 mb-4">
-              Enterprise-Grade Superintelligence Ecosystem. Platform bisnis lengkap dengan AI/ML integration, 
-              payment gateway, dan analytics real-time untuk mengakselerasi revenue Anda.
+              Real-Time Business Intelligence Platform untuk bisnis digital Indonesia. Unified dashboard dengan 
+              AI-powered insights, automated reporting, dan Midtrans payment integration.
             </p>
             <div className="flex space-x-4">
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" 
@@ -46,7 +46,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link href="/about" className="hover:text-white transition-colors">
-                  Tentang OASIS V4
+                  Tentang OASIS Analytics
                 </Link>
               </li>
               <li>
@@ -82,8 +82,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/legal/contact" className="hover:text-white transition-colors">
-                  Contact Us
+                <Link href="/legal/refund" className="hover:text-white transition-colors">
+                  Refund Policy
                 </Link>
               </li>
             </ul>
@@ -125,7 +125,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-gray-400 mb-4 md:mb-0">
-            © {currentYear} OASIS V4. All rights reserved. Built with ❤️ in Indonesia.
+            © {currentYear} OASIS Analytics. All rights reserved. Built with ❤️ for Indonesian digital businesses.
           </p>
           <div className="flex space-x-6 text-sm">
             <Link href="/legal/terms" className="hover:text-white transition-colors">
