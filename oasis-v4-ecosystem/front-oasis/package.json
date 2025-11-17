@@ -1,0 +1,33 @@
+{
+  "name": "front-oasis",
+  "version": "1.0.0",
+  "description": "OASIS V4 Frontend - Superintelligence Ecosystem Dashboard",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "zustand": "^4.4.7",
+    "recharts": "^2.10.3",
+    "lucide-react": "^0.460.0",
+    "date-fns": "^3.0.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.3.3",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^15.1.0"
+  }
+}
