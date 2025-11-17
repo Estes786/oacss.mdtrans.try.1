@@ -5,13 +5,13 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'OASIS V4 - Enterprise-Grade Superintelligence Ecosystem',
-  description: 'The Proven Money Machine - Complete Business Intelligence Platform with Midtrans Payment Integration',
-  keywords: ['AI', 'Business Intelligence', 'Revenue Optimization', 'Digital Assets', 'Growth Machine', 'Payment Gateway', 'Enterprise'],
-  authors: [{ name: 'OASIS V4 Team' }],
+  title: 'OASIS Analytics - Real-Time Business Intelligence Platform',
+  description: 'Enterprise-grade Business Intelligence platform for Indonesian digital businesses - Real-time analytics, AI-powered insights, and unified dashboard with Midtrans payment integration',
+  keywords: ['Business Intelligence', 'Analytics Platform', 'Real-time Dashboard', 'Data Analytics', 'Revenue Optimization', 'AI Insights', 'Midtrans Payment', 'SaaS BI', 'Enterprise Analytics'],
+  authors: [{ name: 'OASIS Analytics Team' }],
   openGraph: {
-    title: 'OASIS V4 - Enterprise-Grade Superintelligence Ecosystem',
-    description: 'The Proven Money Machine - Complete Business Intelligence Platform',
+    title: 'OASIS Analytics - Real-Time Business Intelligence Platform',
+    description: 'Unified BI dashboard with AI-powered insights for digital businesses in Indonesia',
     type: 'website',
     locale: 'id_ID',
   },

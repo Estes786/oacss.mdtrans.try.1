@@ -12,8 +12,8 @@ export default function HomePage() {
           <path d="M12 8v8m-4-4h8" stroke="currentColor" strokeWidth="2" />
         </svg>
       ),
-      title: "DACOO",
-      description: "Digital Asset Creation & Optimization - Buat dan optimasi aset digital dengan AI",
+      title: "Real-Time Dashboard",
+      description: "Monitor semua metrik bisnis dalam satu dashboard - Revenue, conversion, traffic, dan growth metrics",
       color: "text-blue-600",
       bgColor: "bg-blue-50",
     },
@@ -24,8 +24,8 @@ export default function HomePage() {
           <polyline points="17 6 23 6 23 12"></polyline>
         </svg>
       ),
-      title: "AEGM",
-      description: "AI-Enhanced Growth Machine - Tingkatkan revenue dengan analitik pintar",
+      title: "AI-Powered Insights",
+      description: "Dapatkan insight otomatis dengan machine learning - Anomaly detection, trend forecasting, dan recommendations",
       color: "text-green-600",
       bgColor: "bg-green-50",
     },
@@ -35,8 +35,8 @@ export default function HomePage() {
           <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
         </svg>
       ),
-      title: "OVS",
-      description: "Omnichannel Value System - Verifikasi hasil bisnis real-time",
+      title: "Multi-Touch Attribution",
+      description: "Lacak customer journey lengkap - Campaign performance, channel attribution, dan ROI optimization",
       color: "text-purple-600",
       bgColor: "bg-purple-50",
     },
@@ -120,7 +120,7 @@ export default function HomePage() {
             <svg className="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
               <path d="M13 10V3L4 14h7v7l9-11h-7z" />
             </svg>
-            <span className="text-2xl font-bold text-gray-900">OASIS V4</span>
+            <span className="text-2xl font-bold text-gray-900">OASIS Analytics</span>
           </div>
           <div className="flex items-center space-x-4">
             <Link href="/dashboard" className="text-gray-600 hover:text-blue-600 transition-colors font-medium">
@@ -144,16 +144,16 @@ export default function HomePage() {
           </div>
 
           <h1 className="text-6xl md:text-7xl font-bold text-gray-900 mb-6 animate-fadeIn">
-            The Proven
+            Real-Time
             <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600">
-              Money Machine
+              Business Intelligence
             </span>
           </h1>
 
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto animate-fadeIn">
-            Platform superintelligence lengkap untuk mengakselerasi revenue bisnis Anda dengan
-            <strong> Trinity MOAT</strong>, <strong>Midtrans Payment Gateway</strong>, dan{" "}
-            <strong>AI/ML Integration</strong>
+            Platform Business Intelligence lengkap untuk bisnis digital Indonesia - Unified dashboard dengan
+            <strong> real-time analytics</strong>, <strong>AI-powered insights</strong>, dan{" "}
+            <strong>automated reporting</strong>. Terima pembayaran dengan <strong>Midtrans Payment Gateway</strong>.
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4 animate-fadeIn">
@@ -185,9 +185,9 @@ export default function HomePage() {
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">Trinity MOAT System</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Comprehensive Analytics Suite</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Tiga pilar utama yang membuat OASIS V4 menjadi platform paling powerful untuk bisnis digital
+              Platform BI lengkap dengan fitur real-time analytics, AI insights, dan payment gateway integration
             </p>
           </div>
 
@@ -271,7 +271,7 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">Siap Mengakselerasi Revenue Anda?</h2>
           <p className="text-xl mb-8 text-blue-100">
-            Bergabunglah dengan ribuan bisnis yang sudah menggunakan OASIS V4 untuk mencapai target mereka
+            Bergabunglah dengan bisnis digital Indonesia yang sudah menggunakan OASIS Analytics untuk mengoptimasi revenue mereka
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4">
             <Link
